@@ -1,0 +1,36 @@
+.left{
+    position: fixed;
+    z-index: 100;
+    margin-top: -32px;
+    top: 50%;
+    opacity: 1;
+    left: 17px;
+    margin-top: -73.5px;
+    box-sizing: border-box;
+}
+
+.list {
+    display: block;
+    width: 14px;
+    height: 13px;
+    margin: 7px;
+    position: relative;
+}
+
+.circle {
+    top: 2px;
+    left: px;
+    width: 8px;
+    height: 8px;
+    border: 1px solid #000;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+}
+
+.circle::visited{
+    background-color:#333;
+}
+
+

@@ -1,0 +1,55 @@
+.project{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    top:18%;
+}
+.experience{
+    color: #eef3f0;    
+}
+.descripte{
+     position: absolute;
+     height: 200px;
+     width: 100%;
+     left:42%;
+     line-height: 2em;
+     font-size: 1.4em;
+     color: #eef3f0;
+}
+.technology{
+     position: absolute;
+     height: 200px;
+     width: 100%;
+     left:35%;
+     line-height: 3.5em;
+     font-size: 1.2em;
+     color: #eef3f0;    
+}
+.tec_descripte{
+     position: absolute;
+     height: 200px;
+     width: 100%;
+     left:37%;
+     top:29%;
+     font-size: 1em;
+     color: #aee2d9;
+}
+.pro_descripteTitle{
+     position: absolute;
+     width: 100%;
+     left:35%;
+     top:28%;
+     line-height: 4em;
+     font-size: 1.2em;
+     color: #eef3f0;     
+}
+.pro_descripte{
+     position: absolute;
+     width: 100%;
+     left:35%;
+     top:37%;
+     line-height: 2em;
+     font-size: 1em;
+     color: #aee2d9;   
+}
